@@ -1,5 +1,6 @@
 ### Hi there 🧰 🚀
 
+# Just some dude who is 'great' at frontend and can do 'a bit' of backend.
 <!--
 **NickP-real/NickP-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
